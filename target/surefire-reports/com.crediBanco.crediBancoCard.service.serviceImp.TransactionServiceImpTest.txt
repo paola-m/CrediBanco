@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.crediBanco.crediBancoCard.service.serviceImp.TransactionServiceImpTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.107 s - in com.crediBanco.crediBancoCard.service.serviceImp.TransactionServiceImpTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.102 s - in com.crediBanco.crediBancoCard.service.serviceImp.TransactionServiceImpTest
