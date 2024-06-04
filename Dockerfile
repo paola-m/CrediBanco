@@ -15,7 +15,7 @@ FROM openjdk:17
 EXPOSE 8080
 
 # Copiar el archivo JAR construido desde la etapa anterior
-COPY  target/crediBancoCard-0.0.1-SNAPSHOT.jar /app/app.jar
+COPY  crediBancoCard-0.0.1-SNAPSHOT.jar /app/app.jar
 
 
 # Establecer el punto de entrada para ejecutar la aplicación
